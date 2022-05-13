@@ -1,7 +1,7 @@
 <h1 align="center">𝐇𝐢 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦 𝐄𝐝𝐮𝐚𝐫𝐝
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=18E7F7&background=FFFFFF00&center=true&width=900&lines=QA+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=18E7F7&background=FFFFFF00&center=true&width=800&lines=QA+Engineer)](https://git.io/typing-svg)
 
 <!--
 **Ed-Yunusov/Ed-Yunusov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
