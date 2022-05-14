@@ -1,5 +1,9 @@
 <h1 align="center">𝐇𝐢 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦 𝐄𝐝𝐮𝐚𝐫𝐝
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/sRFEa8lbeC7zbcIZZR/giphy.gif" width="600" height="300"/>
+</div>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=18E7F7&background=FFFFFF00&center=true&width=800&lines=QA+Engineer)](https://git.io/typing-svg)
 
