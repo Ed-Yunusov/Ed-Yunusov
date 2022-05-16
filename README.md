@@ -5,7 +5,7 @@
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=18E7F7&background=FFFFFF00&center=true&width=800&lines=I'm+a+QA+Engineer)](https://git.io/typing-svg)
-### :man_technologist: About Me :
+### :man_technologist: About me :
 + :ballot_box_with_check:I have successfully completed the "Fundamentals of Software Testing" course of the Testing School "Be-Tester".
 + :desktop_computer:I’m currently learning the "Test automation in Python using Selenium" course of the Testing School "Be-Tester".
 + :desktop_computer:I’m currently learning the "Software testing" course by Vadim Ksendzov.
@@ -20,6 +20,20 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://www.pngjoy.com/pngm/183/3630759_github-github-octocat-hd-png-download.png" title="Github" alt="Github" width="40" height="40"/>&nbsp;
 </div>
+
+---
+### :mailbox_with_mail: Contact me :
+<div id="badges">
+  <a href="https://www.linkedin.com/in/eduard-yunusov/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/EdwardYunusov">
+    <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
+
+
+
 <!--
 **Ed-Yunusov/Ed-Yunusov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
