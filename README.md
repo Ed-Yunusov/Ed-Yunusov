@@ -12,13 +12,13 @@
 ---
 ### :hammer_and_wrench: Tools :
 <div>
-  <img src="https://raw.githubusercontent.com/Ed-Yunusov/Ed-Yunusov/main/Assets/youtrack_94894.png" title="Youtrack" alt="Youtrack" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/Ed-Yunusov/Ed-Yunusov/main/Assets/mysql_icon.png" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/Ed-Yunusov/Ed-Yunusov/main/Assets/md_icon.png" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/Ed-Yunusov/Ed-Yunusov/main/Assets/postman_icon%2022.35.53.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/Ed-Yunusov/Ed-Yunusov/main/Assets/DevTools_icon.png" title="DevTools" alt="DevTools" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/Ed-Yunusov/Ed-Yunusov/main/Assets/git_icon.png" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/Ed-Yunusov/Ed-Yunusov/main/Assets/terminal_icon.png" title="Terminal" alt="Terminal" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/Ed-Yunusov/Ed-Yunusov/main/Assets/youtrack_94894.png" title="Youtrack" alt="Youtrack" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/Ed-Yunusov/Ed-Yunusov/main/Assets/mysql_icon.png" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/Ed-Yunusov/Ed-Yunusov/main/Assets/md_icon.png" title="Markdown" alt="Markdown" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/Ed-Yunusov/Ed-Yunusov/main/Assets/postman_icon%2022.35.53.png" title="Postman" alt="Postman" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/Ed-Yunusov/Ed-Yunusov/main/Assets/DevTools_icon.png" title="DevTools" alt="DevTools" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/Ed-Yunusov/Ed-Yunusov/main/Assets/git_icon.png" title="Git" alt="Git" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/Ed-Yunusov/Ed-Yunusov/main/Assets/terminal_icon.png" title="Terminal" alt="Terminal" width="50" height="50"/>&nbsp;
 </div>
 
 ---
