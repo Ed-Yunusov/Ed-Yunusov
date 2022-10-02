@@ -19,6 +19,7 @@
   <img src="https://raw.githubusercontent.com/Ed-Yunusov/Ed-Yunusov/main/Assets/DevTools_icon.png" title="DevTools" alt="DevTools" width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/Ed-Yunusov/Ed-Yunusov/main/Assets/git_icon.png" title="Git" alt="Git" width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/Ed-Yunusov/Ed-Yunusov/main/Assets/terminal_icon.png" title="Terminal" alt="Terminal" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/Ed-Yunusov/Ed-Yunusov/main/Assets/Pycharm.png" title="Pycharm" alt="Pycharm" width="50" height="50"/>&nbsp;
 </div>
 
 ---
