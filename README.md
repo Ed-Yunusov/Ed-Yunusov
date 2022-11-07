@@ -8,7 +8,6 @@
 ### :man_technologist: About me :
 + :ballot_box_with_check:I have successfully completed the "Fundamentals of Software Testing" course of the Testing School "Be-Tester".
 + :desktop_computer:I’m currently learning the "Test automation in Python using Selenium" course of the Testing School "Be-Tester".
-+ :desktop_computer:I’m currently learning the "Software testing" course by Vadim Ksendzov.
 ---
 ### :hammer_and_wrench: Tools :
 <div>
