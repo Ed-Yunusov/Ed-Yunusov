@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="300"/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=18E7F7&background=FFFFFF00&center=true&width=800&lines=I'm+a+Junior+QA+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=18E7F7&background=FFFFFF00&center=true&width=800&lines=I'm+QA+Engineer)](https://git.io/typing-svg)
 ### :man_technologist: About me :
 + :ballot_box_with_check:I have successfully completed the "Fundamentals of Software Testing" course of the Testing School "Be-Tester".
 + :desktop_computer:I’m currently learning the "Test automation in Python using Selenium" course of the Testing School "Be-Tester".
